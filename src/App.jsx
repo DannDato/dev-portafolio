@@ -117,7 +117,7 @@ const content = {
       labels: { Frontend: "Frontend", Backend: "Backend", Databases: "Datos", Infrastructure: "Infraestructura" },
     },
     work: {
-      index: "05 / FORMA DE TRABAJAR",
+      index: "FORMA DE TRABAJAR",
       title: "Me interesa entender el problema antes de escribir la solución.",
       principles: [
         ["Contexto primero", "Entender reglas, usuarios, restricciones y operación real antes de diseñar."],
@@ -126,7 +126,7 @@ const content = {
       ],
     },
     contact: {
-      index: "06 / CONTACTO",
+      index: "CONTACTO",
       title: "¿Tienes un problema interesante que resolver?",
       text: "Estoy abierto a oportunidades como desarrollador Full-Stack, especialmente en equipos donde pueda construir, mejorar sistemas y seguir creciendo técnicamente.",
       email: "EMAIL",
@@ -235,7 +235,7 @@ const content = {
       labels: { Frontend: "Frontend", Backend: "Backend", Databases: "Databases", Infrastructure: "Infrastructure" },
     },
     work: {
-      index: "05 / HOW I WORK",
+      index: "HOW I WORK",
       title: "I want to understand the problem before writing the solution.",
       principles: [
         ["Context first", "Understand rules, users, constraints and real-world operations before designing."],
@@ -244,7 +244,7 @@ const content = {
       ],
     },
     contact: {
-      index: "06 / CONTACT",
+      index: "CONTACT",
       title: "Have an interesting problem to solve?",
       text: "I'm open to Full-Stack Developer opportunities, especially in teams where I can build, improve systems and continue growing technically.",
       email: "EMAIL",
