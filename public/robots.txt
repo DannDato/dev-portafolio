@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dato.dannprod.com/sitemap.xml
