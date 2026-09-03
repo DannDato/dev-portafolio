@@ -368,11 +368,11 @@ function App() {
           </div>
 
           <div className="hero-visual">
-            <div className="portrait-frame">
+            {/* <div className="portrait-frame">
               <img src="/daniel-tovar.jpg" alt="Daniel Tovar, Full-Stack JavaScript Developer" width="577" height="704" fetchPriority="high" />
               <div className="portrait-overlay" aria-hidden="true" />
               <div className="portrait-label"><span>{t.hero.profile}</span><strong>Daniel Tovar</strong><small>{t.hero.role}</small></div>
-            </div>
+            </div> */}
             <div className="code-card">
               <span>{t.hero.focus}</span>
               <strong>Full-Stack Developer</strong>
